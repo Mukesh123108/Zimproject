@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Zimproject/static/css/main.7614d545.css",
+    "main.js": "/Zimproject/static/js/main.74fb448e.js",
+    "static/js/453.7c2dc469.chunk.js": "/Zimproject/static/js/453.7c2dc469.chunk.js",
+    "static/media/banner-img-1.png": "/Zimproject/static/media/banner-img-1.45d046f24e654fc4f95c.png",
+    "static/media/f3.jpg": "/Zimproject/static/media/f3.2da96c704b7654625dae.jpg",
+    "static/media/f2.jpg": "/Zimproject/static/media/f2.43feff28f873ce7d7a06.jpg",
+    "static/media/f1.jpg": "/Zimproject/static/media/f1.b8e1cf00cb65f8aa947e.jpg",
+    "static/media/f4.jpg": "/Zimproject/static/media/f4.9e3d8e75d2892de079e0.jpg",
+    "static/media/t3.jpg": "/Zimproject/static/media/t3.34f5122d696d24120d6e.jpg",
+    "static/media/t1.jpg": "/Zimproject/static/media/t1.2131c790d552277f5b48.jpg",
+    "static/media/t2.jpg": "/Zimproject/static/media/t2.82f6e0c4e1e5df2645a4.jpg",
+    "static/media/banner-circle-one.png": "/Zimproject/static/media/banner-circle-one.dda5b62a9569a00fdeea.png",
+    "static/media/genzeal-logo.png": "/Zimproject/static/media/genzeal-logo.4a06466a22309fa3661b.png",
+    "index.html": "/Zimproject/index.html",
+    "main.7614d545.css.map": "/Zimproject/static/css/main.7614d545.css.map",
+    "main.74fb448e.js.map": "/Zimproject/static/js/main.74fb448e.js.map",
+    "453.7c2dc469.chunk.js.map": "/Zimproject/static/js/453.7c2dc469.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7614d545.css",
+    "static/js/main.74fb448e.js"
+  ]
+}
