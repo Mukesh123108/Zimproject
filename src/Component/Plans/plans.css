@@ -1,0 +1,87 @@
+.fetures img {
+    height: 1rem;
+    width: 1rem!important;
+}
+ .plan-b-1{
+    width: 32rem;
+    height: 23rem;
+    top: 6rem;
+}
+.plan-b-2{
+    width: 32rem;
+    height: 23rem;
+    top: 6rem;
+    right: 0rem;
+}
+.palns-container{
+    display: flex;
+    flex-direction: column;
+    padding: 0px 2rem;
+    gap: 4rem;
+    position: relative;
+}
+.plans{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+}
+.plan{
+
+    display: flex;
+    flex-direction: column;
+    background-color: azure;
+    gap: 2rem;
+    padding: 1.5rem;
+    width: 15rem;
+}
+.plan img {
+    width: 51px;
+}
+.plan .btn {
+    width: 100%;
+   
+}
+.plan:nth-child(2){
+    background-color: #9bb2c8;
+}
+.plan>:nth-child(2){
+    font-size: 1rem;
+    font-weight: bold;
+}
+.plan>:nth-child(3){
+    font-size: 3rem;
+    font-weight: bold;
+}
+.plan>:nth-child(5){
+    font-size: 0.8rem;
+    font-weight: bold;
+}
+.fiture{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+.fetures{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+@media(max-width:767px) {
+    .foot-b-2 {
+        bottom: 0;
+        left: 1%;
+        width: 7rem;
+        height: 10rem;
+        filter: blur(200px);
+        background: orange;
+    }
+    .plan-b-1 {
+        width: 15rem;
+        height: 10rem;
+        top: 6rem;
+    }
+    .plans {
+       flex-direction: column;
+    }
+}
